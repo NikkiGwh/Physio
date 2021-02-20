@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Physio/static/css/main.5d55cd70.chunk.css",
+    "main.js": "/Physio/static/js/main.944913aa.chunk.js",
+    "main.js.map": "/Physio/static/js/main.944913aa.chunk.js.map",
+    "runtime-main.js": "/Physio/static/js/runtime-main.46dd8b0b.js",
+    "runtime-main.js.map": "/Physio/static/js/runtime-main.46dd8b0b.js.map",
+    "static/js/2.117a28c2.chunk.js": "/Physio/static/js/2.117a28c2.chunk.js",
+    "static/js/2.117a28c2.chunk.js.map": "/Physio/static/js/2.117a28c2.chunk.js.map",
+    "index.html": "/Physio/index.html",
+    "static/css/main.5d55cd70.chunk.css.map": "/Physio/static/css/main.5d55cd70.chunk.css.map",
+    "static/js/2.117a28c2.chunk.js.LICENSE.txt": "/Physio/static/js/2.117a28c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46dd8b0b.js",
+    "static/js/2.117a28c2.chunk.js",
+    "static/css/main.5d55cd70.chunk.css",
+    "static/js/main.944913aa.chunk.js"
+  ]
+}
